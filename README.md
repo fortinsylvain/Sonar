@@ -1,2 +1,2 @@
 # Sonar
-Ultrasonic sonar array
+This project involves an ultrasonic sonar array designed to calculate the distances of multiple objects. Simulations are conducted using MATLAB, and a microcontroller equipped with digital-to-analog converters (DACs) is utilized to measure the delay and phase of each array element. It was developed during the final project course of my bachelor's degree in Electrical Engineering at the École de technologie supérieure, Montreal, QC.
